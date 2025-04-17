@@ -7,14 +7,17 @@ A backend system for managing university operations.
 - User authentication and authorization
 - Student management
 - Course management
+- Universites management
 - Faculty management
 - Department management
 
 ## Tech Stack
 
-- Node.js
+- Angular.js
+- Tailwind Css
 - Express.js
-- MongoDB
+- TypeORM
+- Postgresql
 - JWT Authentication
 
 ## Getting Started
